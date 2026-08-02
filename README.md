@@ -1,17 +1,19 @@
 # Ricardo Victor Machado de Almeida — Portfólio pessoal
 
-Site pessoal e portfólio profissional hospedado no GitHub Pages.
+Site pessoal e portfólio profissional bilíngue hospedado no GitHub Pages.
 
 ## Conteúdo
 
-- Home profissional responsiva
+- Home profissional responsiva em português e inglês
+- Seletor de idioma `PT | EN` integrado ao cabeçalho
 - Trajetória profissional e acadêmica
 - Projetos selecionados
 - Produção científica e propriedade intelectual
 - Competências técnicas
-- Página de currículo preparada para impressão/PDF
-- SEO básico, Open Graph, JSON-LD, sitemap e robots.txt
-- Tema claro/escuro e navegação mobile
+- Currículo em português e résumé em inglês, preparados para impressão/PDF
+- SEO bilíngue com `hreflang`, Open Graph, JSON-LD, sitemap e robots.txt
+- Tema claro/escuro com preferência preservada entre os idiomas
+- Navegação mobile e recursos básicos de acessibilidade
 
 ## Tecnologias
 
@@ -27,24 +29,31 @@ Em **Settings → Pages**, use:
 - Branch: `main`
 - Folder: `/ (root)`
 
-Endereço esperado: https://ricardovictorm.github.io/
+Endereços principais:
+
+- Português: https://ricardovictorm.github.io/
+- English: https://ricardovictorm.github.io/en.html
 
 ## Estrutura
 
 ```text
 .
 ├── index.html
+├── en.html
 ├── curriculo.html
+├── resume.html
 ├── 404.html
 ├── site.webmanifest
 ├── robots.txt
 ├── sitemap.xml
 └── assets
-    ├── css/styles.css
+    ├── css
+    │   ├── styles.css
+    │   └── language.css
     ├── js/main.js
     └── img/favicon.svg
 ```
 
 ## Atualização
 
-Os textos principais estão em `index.html`. A identidade visual está centralizada nas variáveis no início de `assets/css/styles.css`.
+Os textos em português estão em `index.html` e `curriculo.html`. Os textos em inglês estão em `en.html` e `resume.html`. A identidade visual está centralizada em `assets/css/styles.css`, enquanto o seletor de idioma usa `assets/css/language.css`.
