@@ -1,11 +1,16 @@
 (() => {
   const root = document.documentElement;
+  const isEnglish = root.lang.toLowerCase().startsWith('en');
   const header = document.querySelector('.site-header');
   const nav = document.querySelector('.primary-nav');
   const navToggle = document.querySelector('.nav-toggle');
   const themeToggle = document.querySelector('.theme-toggle');
   const toast = document.querySelector('.toast');
   const year = document.querySelector('#current-year');
+
+  const labels = isEnglish
+    ? { openMenu: 'Open menu', closeMenu: 'Close menu' }
+    : { openMenu: 'Abrir menu', closeMenu: 'Fechar menu' };
 
   if (year) year.textContent = new Date().getFullYear();
 
@@ -20,19 +25,26 @@
   themeToggle?.addEventListener('click', () => {
     const next = root.dataset.theme === 'dark' ? 'light' : 'dark';
     root.dataset.theme = next;
-    try { localStorage.setItem('rv-theme', next); } catch { /* sem persistência */ }
+    try { localStorage.setItem('rv-theme', next); } catch { /* no persistence */ }
+  });
+
+  document.querySelectorAll('[data-language]').forEach(link => {
+    link.addEventListener('click', () => {
+      try { localStorage.setItem('rv-language', link.dataset.language); } catch { /* no persistence */ }
+    });
   });
 
   navToggle?.addEventListener('click', () => {
     const open = nav.classList.toggle('open');
     navToggle.setAttribute('aria-expanded', String(open));
-    navToggle.setAttribute('aria-label', open ? 'Fechar menu' : 'Abrir menu');
+    navToggle.setAttribute('aria-label', open ? labels.closeMenu : labels.openMenu);
   });
 
   nav?.querySelectorAll('a').forEach(link => {
     link.addEventListener('click', () => {
       nav.classList.remove('open');
       navToggle?.setAttribute('aria-expanded', 'false');
+      navToggle?.setAttribute('aria-label', labels.openMenu);
     });
   });
 
