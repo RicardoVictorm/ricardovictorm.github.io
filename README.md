@@ -11,7 +11,8 @@ Site pessoal e portfólio profissional bilíngue hospedado no GitHub Pages.
 - Produção científica e propriedade intelectual
 - Competências técnicas
 - Currículo em português e résumé em inglês, preparados para impressão/PDF
-- SEO bilíngue com `hreflang`, Open Graph, JSON-LD, sitemap e robots.txt
+- SEO bilíngue com `hreflang`, Open Graph com imagem 1200×630, JSON-LD (`ProfilePage`, `Person`, `ScholarlyArticle`), sitemap com `lastmod`/`hreflang` e robots.txt
+- `llms.txt` com resumo factual para buscadores de IA (GEO)
 - Tema claro/escuro com preferência preservada entre os idiomas
 - Navegação mobile e recursos básicos de acessibilidade
 
@@ -46,12 +47,15 @@ Endereços principais:
 ├── site.webmanifest
 ├── robots.txt
 ├── sitemap.xml
+├── llms.txt
 └── assets
     ├── css
     │   ├── styles.css
     │   └── language.css
     ├── js/main.js
-    └── img/favicon.svg
+    └── img
+        ├── favicon.svg
+        └── og-image.png
 ```
 
 ## Atualização

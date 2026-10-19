@@ -1,0 +1,48 @@
+# Ricardo Victor Machado de Almeida
+
+> Ricardo Victor Machado de Almeida (also "Ricardo Almeida") is a Brazilian data professional based in Natal, RN, with 5+ years of experience in data analytics, business intelligence and CRM. He currently works as CRM / Senior Data Analyst at Grupo PG Prime (premium automotive sector). His career moved from scientific research (molecular evolution, biochemistry and bioinformatics at UFRN) into data analytics, BI, data engineering, CRM and AI.
+
+## Experience
+
+- CRM / Senior Data Analyst — Grupo PG Prime, Natal (Jul 2026 – present): customer database management and segmentation, CRM campaign tracking (email, push, SMS, WhatsApp, in-app) by open rate, CTR, conversion and ROI, A/B testing, Power BI and Looker Studio dashboards, GA4/GTM measurement, data governance; assessment of the data ecosystem (automotive DMS and CRM, chat, GTM containers, GA4 properties, Search Console) towards a governed data architecture.
+- Business Intelligence Analyst — AutoForce, Natal (Jan 2024 – Dec 2025): Power BI and Looker Studio dashboards for Marketing, Sales, Product and leadership; acquisition, conversion and funnel KPIs; ETL pipelines with GA4, CRM platforms, Snowflake and BigQuery; tracking with Google Tag Manager, GA4 and DataLayers; PostgreSQL → Snowflake ingestion via Hevo (pipeline with 194 source tables configured for ingestion) in a Bronze/Trusted layered architecture with sources such as GA4, HubSpot, Zendesk, Jira and Google Sheets; Customer Health Score project scoped across 5 data sources; event instrumentation, lead delivery to CRMs, VWO testing and Universal Analytics history backup (2019–2023).
+- Data Scientist / Data Analyst — ioasys, for Alpargatas/Havaianas (Jul 2022 – Sep 2023): e-commerce and omnichannel sales analytics with Python, SQL, Databricks, AWS, Azure and Snowflake; Power BI and Tableau dashboards; customer and sales segmentation; demand forecasting with linear regression, decision trees and Random Forest.
+- Research Assistant — Alana AI (Apr 2021 – Jul 2022): datasets, experimental design and machine learning prototypes with Pandas, NumPy and Scikit-learn.
+
+## Education and research
+
+- Master's in Bioinformatics, UFRN (started 2023, not completed).
+- PhD program in Biochemistry, UFRN (Nov 2014 – Aug 2019, not completed): doctoral research on gene expression profiling of leprosy lesions; bioinformatics, genomics, NGS, Python, R, Bash, MATLAB, Linux HPC.
+- Visiting PhD student, Telethon Kids Institute, Perth, Australia (Jan – Aug 2018): microbiome data analysis with Python, R and QIIME2.
+- Master's in Systematics and Evolution (Evolutionary Biology), UFRN (2012 – 2014): molecular phylogeny of isocitrate lyase and malate synthase in Viridiplantae; Bayesian inference (MCMC).
+- Biological Sciences, UFRN: teaching degree (2006 – 2010) and bachelor's degree (2010 – 2013); admitted in 1st place.
+- Environmental Control Technician, IFRN (2004): Diploma of Distinction.
+
+## Publications and patents
+
+- Scientific Reports (2019): Analysis of Arabidopsis thaliana Redox Gene Network Indicates Evolutionary Expansion of Class III Peroxidase in Plants — https://doi.org/10.1038/s41598-019-52299-y
+- PLOS Neglected Tropical Diseases (2019): Meta-taxonomic analysis of gut flora in visceral leishmaniasis cases and endemic controls in Bihar State, India — https://doi.org/10.1371/journal.pntd.0007444
+- PLOS ONE (2015): Mo-CBP3, an Antifungal Chitin-Binding Protein from Moringa oleifera Seeds, Is a Member of the 2S Albumin Family — https://doi.org/10.1371/journal.pone.0119871
+- BMC Bioinformatics (2014): In silico single strand melting curve: a new approach to identify nucleic acid polymorphisms in Totiviridae — https://doi.org/10.1186/1471-2105-15-243
+- Co-inventor, Brazilian patent application BR 10 2016 010178 6 A2 (chimeric products for diagnosis and/or recombinant vaccines against toxoplasmosis).
+
+## Skills
+
+SQL, Python, R, DAX, Power BI, Tableau, Looker Studio, Snowflake, Databricks, BigQuery, Microsoft Fabric, Azure Synapse, ADLS, AWS, Azure, Google Cloud, GA4, Google Tag Manager, DataLayer, Salesforce, ETL/ELT, data modeling, data quality, data governance, CRM analytics, customer segmentation, A/B testing, machine learning, deep learning, generative AI, MCP (Model Context Protocol), statistics, bioinformatics.
+
+Languages: Portuguese (native), English (professional working; TOEFL ITP, 2016), Spanish (elementary).
+Certifications: Generative AI for Business (DataCamp, 2024); AI Business Fundamentals (DataCamp, 2024); AI Fundamentals (LinkedIn Learning, 2023); Data Science Foundations: Fundamentals (LinkedIn Learning, 2021); Learning Selenium; Método Lógico para Redação Científica Internacional (Logical Method for International Scientific Writing); Elaboração de Protocolos de Laboratório (Laboratory Protocol Design).
+Contact: ricardovictorm@gmail.com
+
+## Pages
+
+- [Portfolio (Portuguese)](https://ricardovictorm.github.io/): professional profile, experience, projects, academic background and skills
+- [Portfolio (English)](https://ricardovictorm.github.io/en.html): English version of the portfolio
+- [Currículo (Portuguese)](https://ricardovictorm.github.io/curriculo.html): printable résumé
+- [Résumé (English)](https://ricardovictorm.github.io/resume.html): printable résumé
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/ricardovictorm)
+- [GitHub](https://github.com/RicardoVictorm)
+- [Currículo Lattes (CNPq)](https://lattes.cnpq.br/4926674754201357)

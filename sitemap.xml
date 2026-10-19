@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ricardovictorm.github.io/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://ricardovictorm.github.io/en.html</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://ricardovictorm.github.io/curriculo.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://ricardovictorm.github.io/resume.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ricardovictorm.github.io/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ricardovictorm.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ricardovictorm.github.io/en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ricardovictorm.github.io/"/>
+    <image:image><image:loc>https://ricardovictorm.github.io/assets/img/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ricardovictorm.github.io/en.html</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ricardovictorm.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ricardovictorm.github.io/en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ricardovictorm.github.io/"/>
+  </url>
+  <url>
+    <loc>https://ricardovictorm.github.io/curriculo.html</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ricardovictorm.github.io/curriculo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ricardovictorm.github.io/resume.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ricardovictorm.github.io/curriculo.html"/>
+  </url>
+  <url>
+    <loc>https://ricardovictorm.github.io/resume.html</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://ricardovictorm.github.io/curriculo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ricardovictorm.github.io/resume.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ricardovictorm.github.io/curriculo.html"/>
+  </url>
 </urlset>
