@@ -16,7 +16,6 @@
 - Visiting PhD student, Telethon Kids Institute, Perth, Australia (Jan – Aug 2018): microbiome data analysis with Python, R and QIIME2.
 - Master's in Systematics and Evolution (Evolutionary Biology), UFRN (2012 – 2014): molecular phylogeny of isocitrate lyase and malate synthase in Viridiplantae; Bayesian inference (MCMC).
 - Biological Sciences, UFRN: teaching degree (2006 – 2010) and bachelor's degree (2010 – 2013); admitted in 1st place.
-- Environmental Control Technician, IFRN (2004): Diploma of Distinction.
 
 ## Publications and patents
 
